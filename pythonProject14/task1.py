@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-
 def outer_function():
     def inner_function(x):
         return x + 3
